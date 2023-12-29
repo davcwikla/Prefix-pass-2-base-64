@@ -5,7 +5,7 @@ While hacking THM  room called "Hijacking" I had to do script who add prefix to 
 If u have passwords list and all passwords start from the new line and u need to add prefix automatically for example: admin:password where "admin:" is directly prefix and in next step u need to encoded it in Base64 this script is 4u. Fell free to use this.
 
 
-┌──(eterdiet㉿bypassbyte)-[~/THM_CTFS/Hijacking]
+```┌──(eterdiet㉿bypassbyte)-[~/THM_CTFS/Hijacking]
 └─$ sudo python3 ./prefixpass2base64.py
 [sudo] password for eterdiet: 
 
@@ -24,4 +24,5 @@ Set prefix for passwords: admin:
 Generating... \
 
 Encoding to Base64 is done. All is saved in file called output.txt
+```
 
