@@ -25,4 +25,22 @@ Generating... \
 
 Encoding to Base64 is done. All is saved in file called output.txt
 ```
+Where output looks like: 
 
+```
+┌──(eterdiet㉿bypassbyte)-[~/THM_CTFS/Hijacking]
+└─$ cat output.txt       
+YWRtaW46VnhiMzhtU05OOHd4cUh4djZ1TVg=
+YWRtaW46NTZKNFp3NmN2ejhxRHZoQ1dDVnk=
+YWRtaW46cUxucVRYeWRuWTNrdHN0bnRMR3U=
+YWRtaW46TjYzblBVeERHMlp2cmhaZ1A5Nzg=
+YWRtaW46anczRXpyMjZ0eWdUZGdCWlZZR3I=
+YWRtaW46emI5Q0ZrZDJRR0RCamd5VnZmREg=
+YWRtaW46a2ZGcExBUUZoRDNTNlR2WW40bXY=
+YWRtaW46bll5bjRKeFBoalNzbTRIVWVHdEs=
+YWRtaW46eUdXQ2c2R05lUFVGWnpWOGYyZ1A=
+YWRtaW46TEZLNDNHQWZjOEplVnBDR0NYek0=
+YWRtaW46S0ZlanZESDdNTFBYWmVGenVhd1k=
+YWRtaW46UWozdzZzYnpHeHV6dld6TlJ0eWI=
+YWRtaW46VFVUbmZXNlZwdHlGQXRrZ0VOUFM=
+```
